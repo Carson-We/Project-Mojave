@@ -48,4 +48,3 @@
 
     // 執行示例
     runExample();
-  </script>
